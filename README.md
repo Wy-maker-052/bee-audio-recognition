@@ -19,4 +19,10 @@ Install dependencies:
 ```bash
 pip install librosa numpy scikit-learn matplotlib
 
-update readme: add dual certificates
+bee-audio-recognition/
+├─ audio_dataset/        # Raw bee audio dataset
+├─ spectrum_output/      # Generated spectrogram and result figures
+├─ docs/                 # Conference certificate & project report
+├─ main_all_in_one.py    # Main program
+├─ RF_SVM_Feature.py     # Feature extraction & model script
+└─ 蜜蜂音频频谱图.py      # Spectrogram drawing script
