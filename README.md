@@ -18,3 +18,5 @@ We extract MFCC acoustic features, then use Random Forest and SVM to classify be
 Install dependencies:
 ```bash
 pip install librosa numpy scikit-learn matplotlib
+
+update readme: add dual certificates
